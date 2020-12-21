@@ -25,10 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cb874d1-06fd-4004-b2be-e6f99e9acf3c" name="Default Changelist" comment="add bootstapp lesson">
-      <change afterPath="$PROJECT_DIR$/js/jquery.ajax-cross-origin.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <updated>1607958058240</updated>
       <workItem from="1607958063322" duration="6591000" />
       <workItem from="1608027807484" duration="144000" />
-      <workItem from="1608563572988" duration="1817000" />
+      <workItem from="1608563572988" duration="2920000" />
     </task>
     <task id="LOCAL-00001" summary="add bootstapp lesson">
       <created>1607963721486</created>
